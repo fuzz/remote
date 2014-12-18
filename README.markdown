@@ -1,8 +1,10 @@
-# Remote Companies
+# Distributed Companies
 
-This is a list of companies that allow tech employees to work from home.
+This is a list of companies that use distributed teams.
 Please add your company or companies you know about via pull request or just
 tweet me the info at @fuzzleonard and I will add it for you.
+
+## Metrics
 
 Two metrics for gauging the efficacy of a remote work environment are:
 
@@ -12,7 +14,7 @@ environment will be inclusive and that effective communication between
 leadership and remote workers is transpiring.
 
 * Are managers required to work near a physical office? This is a good
-indicator of the level of company commitment to a remote work environment as
+indicator of the level of company commitment to distributed teams as
 well as chances of promotion. A remote job is nice but not being able to
 advance unless you move across the country really makes it just a job; some
 people would prefer to have a remote career.
@@ -21,7 +23,21 @@ There are plenty of other metrics we could use, but after a decade of working
 remote I feel everything else can be seen as falling out of these two
 culture-level metrics. In other words if you have the right culture all the
 other things are implementation details that can be reasonably expected to
-change to better serve the culture.
+change to better serve that culture.
+
+## Q&A
+
+Q: Why managers specifically?
+
+A: My experience has been if the culture supports off-site managers that
+generally means there is a real remote culture with transparent group
+communication. If managers mostly work on-site then cliques develop and things
+happen in face-to-face meetings and after work in bars and such from which
+remote employees are excluded. It can also be an indicator that upper
+management is really just tolerating this whole remote employee thing because
+they have to and given a chance would shut it all down.
+
+## The List
 
 Where available please link directly to the company's careers page.
 
