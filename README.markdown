@@ -8,8 +8,8 @@ Two metrics for gauging the efficacy of a remote work environment are:
 
 * Do managers (at least some of them) usually work from home? Having managers
 who primarily work at home is a good indicator that the remote work
-environment will be inclusive and effictive communication between leadership
-and remote workers is happening.
+environment will be inclusive and that effective communication between
+leadership and remote workers is transpiring.
 
 * Are managers required to work near a physical office? This is a good
 indicator of the level of company commitment to a remote work environment as
