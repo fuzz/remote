@@ -32,11 +32,16 @@ Where available please link directly to the company's careers page.
 | Basecamp (formerly 37signals) | https://basecamp.com/about | Yes | Unknown |
 | Clevertech | http://www.clevertech.biz | Unknown | Unknown |
 | DataStax | http://www.datastax.com/company/careers | Yes | No |
+| EngineYard | https://www.engineyard.com/company/careers | Unknown | Unknown |
 | Fidelity Life | http://www.fidelitylife.com | Yes | Yes |
 | Formstack | https://www.formstack.com/careers | Unknown | Unknown |
 | Geezeo | http://geezeo.com/about/careers | Yes | Yes |
 | Harvest | https://www.getharvest.com/careers | Unknown | Unknown |
 | Heroku | https://jobs.heroku.com | Yes | No |
+| Hireology | http://www.hireology.com/careers | Unknown | Unknown |
+| Instructure | http://www.instructure.com/jobs | Unknown | Unknown |
+| Rentpath | http://rentpath.com/careers | Unknown | Unknown |
+| LivingSocial | http://corporate.livingsocial.com/careers/overview | Yes | No |
 | Treehouse | https://teamtreehouse.com/jobs | Unknown | Unknown |
 | Typesafe | https://typesafe.com/company/careers | Unknown | Unknown |
-
+| Upworthy | http://www.upworthy.com/jobs | Unknown | Unknown |
