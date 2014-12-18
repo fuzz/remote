@@ -1,4 +1,4 @@
-= Remote Companies
+# Remote Companies
 
 This is a list of companies that allow tech employees to work from home.
 Please add your company or companies you know about via pull request or just
