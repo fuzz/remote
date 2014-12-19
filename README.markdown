@@ -56,6 +56,7 @@ Where available please link directly to the company's careers page.
 | Heroku | https://jobs.heroku.com | Yes | No |
 | Hireology | http://www.hireology.com/careers | Unknown | Unknown |
 | Instructure | http://www.instructure.com/jobs | Unknown | Unknown |
+| Rackspace | http://www.rackspace.com/talent/ | Yes | No |
 | Rentpath | http://rentpath.com/careers | Unknown | Unknown |
 | LivingSocial | http://corporate.livingsocial.com/careers/overview | Yes | No |
 | Treehouse | https://teamtreehouse.com/jobs | Unknown | Unknown |
