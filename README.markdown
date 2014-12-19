@@ -71,6 +71,8 @@ Where available please link directly to the company's careers page.
 | Instructure | http://www.instructure.com/jobs | Unknown | Unknown |
 | Jeymone Limited | n/a (might be adult entertainment?) | Unknown | Unknown |
 | Leadformance | http://jobs.leadformance.com | Unknown | Unknown |
+| Rackspace | http://www.rackspace.com/talent/ | Yes | No |
+| Rentpath | http://rentpath.com/careers | Unknown | Unknown |
 | LivingSocial | http://corporate.livingsocial.com/careers/overview | Yes | No |
 | MailPoet | http://www.mailpoet.com/jobs | Unknown | Unknown |
 | Monetate | http://www.monetate.com/jobs | Unknown | Unknown |
