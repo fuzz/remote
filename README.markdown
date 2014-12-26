@@ -45,14 +45,14 @@ Inclusion on this list is in no way an endorsement. Be careful.
 
 Where available please link directly to the company's careers page.
 
-### Managers work from home and are not required to work near an office
+### Managers work remote, not required to work near an office
 
 - [DataStax](http://www.datastax.com/company/careers)
 - [Heroku](https://jobs.heroku.com)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
 - [Rackspace](http://www.rackspace.com/talent/)
 
-### Managers work from home but are required to work near an office (or unknown)
+### Managers work remote, required to work near an office (or unknown)
 
 - [Basecamp (formerly 37signals)](https://basecamp.com/about)
 - [Fidelity Life](http://www.fidelitylife.com)
@@ -87,7 +87,6 @@ Where available please link directly to the company's careers page.
 - [Instructure](http://www.instructure.com/jobs)
 - [Jeymone Limited](n/a (might be adult entertainment?))
 - [Leadformance](http://jobs.leadformance.com)
-- [Rentpath](http://rentpath.com/careers)
 - [MailPoet](http://www.mailpoet.com/jobs)
 - [Monetate](http://www.monetate.com/jobs)
 - [MotorLot](http://motorlot.com/jobs)
