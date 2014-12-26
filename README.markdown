@@ -118,5 +118,5 @@ Where available please link directly to the company's careers page.
 
 ## Other Resources
 
-https://weworkremotely.com
-http://www.remoteworking.co
+- https://weworkremotely.com
+- http://www.remoteworking.co
