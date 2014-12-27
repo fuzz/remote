@@ -51,6 +51,7 @@ Where available please link directly to the company's careers page.
 - [Heroku](https://jobs.heroku.com)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
 - [Rackspace](http://www.rackspace.com/talent/)
+- [Upworthy](http://www.upworthy.com/jobs)
 
 ### Managers work remote, required to work near an office (or unknown)
 
@@ -109,7 +110,6 @@ Where available please link directly to the company's careers page.
 - [Tradewave](https://tradewave.net/contact)
 - [Treehouse](https://teamtreehouse.com/jobs)
 - [Typesafe](https://typesafe.com/company/careers)
-- [Upworthy](http://www.upworthy.com/jobs)
 - [Unreal Group](http://unrealgrp.com)
 - [Userbin](https://userbin.com)
 - [WebPunch](http://webpunch12.com)
