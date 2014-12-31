@@ -29,7 +29,7 @@ and looked to see what a house like the one I have here with my wife and childre
 closest I could find, which was significantly smaller (though admittedly much fancier), cost
 $20,000/month.
 
-I would not call myself a 10x programmer and I am not sure such beasts exist, but I do have moments
+I would not call myself an exceptional programmer, but I do have moments
 when the Venn diagrams of my experience align on a certain problem, are ignited by a spark
 of creativity and the result is something that looks sufficiently like magic that people who
 have seen it happen were probably impressed.
@@ -42,17 +42,14 @@ Twenty years later Daniel is visiting and tells me he ran into Rick a while back
 my story about the Jumble and Rick laughed, said he had done the Jumble in a different paper
 earlier in the day and was trying to impress me.
 
-But if a genuine 10x programmer is found surely they would be allowed to work remote. Right? If they
-are THAT good?
+But if a genuinely exceptional programmer is found surely they would be allowed to work remote.
+Right? If they are THAT good?
 
-Steven suggests that colocated teams better serve the corporate good. Perhaps. We have all read
-the stomach-turning stories about FoxConn and their dormotories and suicides. That also serves
-the corporate good. We have all read about plantations and slaves and how efficient it all was and
-how much wealth was built. But maybe, just maybe, extracting as much life out of workers as
-possible--please commute fifteen hours a week so our product (though maybe not your kids)
-will be more awesome--is not worth a 0.0002% accuracy in the targeting of bean advertising to flatulent
-people wearing a Fitbit. Remember when technology was supposed to improve the quality of our
-lives, even the lives of the people building said technology?
+Steven suggests that colocated teams better serve the corporate good. Perhaps. But maybe, just maybe,
+extracting as much life out of workers as possible--please commute fifteen hours a week so our product
+(though maybe not your kids) will be more awesome--is not worth a 0.0002% accuracy in the targeting of
+bean advertising to flatulent people wearing a Fitbit. Remember when technology was supposed to improve
+the quality of our lives, even the lives of the people building said technology?
 
 Harvard recently completed a 75-year study on human (male) happiness. Their conclusion? It is all
 about love and warm relationships. Take 15 hours a week times 50 weeks times 20 years that's 15,000
@@ -65,7 +62,7 @@ I, too, remember those initial attempts at outsourcing. We are not
 talking about the days of hustlers getting contracts and then trying to staff them with whatever
 bodies they can find. This is 2014--2015 some places already--we have GitHub, Stack Overflow, job
 boards for distributed teams, massive numbers of contributors to open source projects. Today quality
-remote workers and companies can find each other and evaluate each other directly.
+remote workers and companies can and evaluate each other directly.
 
 The way I see it a lot of this comes down to synchronous versus asynchronous communication. We
 started with synchronous communication as it was natural and it has a lot of useful properties. We
@@ -94,7 +91,7 @@ distributed teams.
 A well-run distributed team primarily communicates via group text chat like Slack. As much as possible
 all communication happens in various channels that can form by team or project or whatever fits best.
 Communication happens asynchronously, transparently and is immutably logged. Conversations are never
-lost or forgotten and no one ever need be excluded from the information because they are not present. 
+lost nor forgotten and no one ever need be excluded from the information because they are not present. 
 New group members can quickly be brought up to speed on a given topic or issue by referring them to
 relevant logs. Cross referencing code commits with tickets and publishing changes either directly to a
 group's room or to a "newsfeed" room provides amazing self-documentation. If I want to know why
