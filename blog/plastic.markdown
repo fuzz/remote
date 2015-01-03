@@ -1,12 +1,12 @@
 # Never Bet Against The Cheap Plastic Solution
-01234567890123456789012345678901234567890123456789012345678901234567890123456789
+
 Paul Graham wrote [an article](http://paulgraham.com/95.html) recently about
 immigration and the tech industry. Matt Mullenweg wrote [a response]
 (http://ma.tt/2014/12/how-paul-graham-is-wrong/) mentioning distributed teams
-as a solution and there was (this thread)
-[https://news.ycombinator.com/item?id=8811019] on Hacker News with additional
+as a solution and there was [this thread]
+(https://news.ycombinator.com/item?id=8811019) on Hacker News with additional
 discussion about colocated versus distributed teams. Steven Sinofsky wrote
-(a response to all of those)[http://blog.learningbyshipping.com/2014/12/30/why-remote-engineering-is-so-difficult/].
+[a response to all of those](http://blog.learningbyshipping.com/2014/12/30/why-remote-engineering-is-so-difficult/).
 
 I have been working in the tech industry for twenty years modulo hiatuses for
 creative projects. I have spent roughly half of that time colocated and half
