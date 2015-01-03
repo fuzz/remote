@@ -24,7 +24,7 @@ programmers in the world looked at the quality of life in Silicon Valley, gave
 it the middle finger, and started better companies wherever they damned well
 pleased?
 
-Because I have some news for you. Those exceptional programmers are highly
+Because I have news for you. Those exceptional programmers are highly
 intelligent individuals with significant left- and right-brain activity. They
 have no interest in your strip malls and your traffic and your hole where the
 culture is supposed to be. That is why they are moving north to San Francisco.
@@ -54,11 +54,12 @@ programmers are rare and key to success then it would seem incumbent on the
 companies who need these individuals to maintain work environments that remove
 barriers to working with them.
 
-Harvard recently completed a 75-year study on human (male) happiness. Their
-conclusion? It is all about love and warm relationships. Take 15 hours a week
-times 50 weeks times 20 years that's 15,000 hours--assuming one is awake 16
-hours a day that works out to about 3 years of one's life sitting in
-traffic. Imagine instead applying those three years to warm relationships.
+Harvard recently completed [a 75-year
+study](http://en.wikipedia.org/wiki/rant_Study) on human (male)
+happiness. Their conclusion? It is all about love and warm relationships. Take
+15 hours a week times 50 weeks times 20 years that's 15,000 hours--assuming one
+is awake 16 hours a day that works out to about 3 years of one's life sitting
+in traffic. Imagine instead applying those three years to warm relationships.
 
 I, too, remember those initial attempts at outsourcing. We are not talking
 about the days of hustlers getting contracts and then trying to staff them with
