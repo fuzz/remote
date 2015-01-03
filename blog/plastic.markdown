@@ -1,11 +1,10 @@
 # Never Bet Against The Cheap Plastic Solution
 
-Paul Graham wrote an article recently about immigration and the tech industry. Photomatt wrote a
-response mentioning distributed teams as a solution and there was this thread on Hacker News with
-some additional discussion about colocated versus distributed teams. Steven Sinofsky wrote
-a response to all of those here and this is a response to all of the above. Whee! 
-
-- Need to add links to and clean up above paragraph
+Paul Graham wrote [http://paulgraham.com/95.html](an article) recently about immigration and the
+tech industry. Matt Mullenweg  wrote [http://ma.tt/2014/12/how-paul-graham-is-wrong/](a response)
+mentioning distributed teams as a solution and there was [https://news.ycombinator.com/item?id=8811019]
+(this thread) on Hacker News with additional discussion about colocated versus distributed teams.
+Steven Sinofsky wrote [http://blog.learningbyshipping.com/2014/12/30/why-remote-engineering-is-so-difficult/](a response to all of those) and this is my response to all of the above.
 
 I have been working in the tech industry for twenty years modulo hiatuses for creative projects.
 I have spent roughly half of that time colocated and half of that time distributed. I do not have
@@ -29,7 +28,7 @@ and looked to see what a house like the one I have here with my wife and childre
 closest I could find, which was significantly smaller (though admittedly much fancier), cost
 $20,000/month.
 
-I would not call myself an exceptional programmer, but I do have moments
+I would not call myself a great programmer, but I do have moments
 when the Venn diagrams of my experience align on a certain problem, are ignited by a spark
 of creativity and the result is something that looks sufficiently like magic that people who
 have seen it happen were probably impressed.
@@ -42,7 +41,7 @@ Twenty years later Daniel is visiting and tells me he ran into Rick a while back
 my story about the Jumble and Rick laughed, said he had done the Jumble in a different paper
 earlier in the day and was trying to impress me.
 
-But if a genuinely exceptional programmer is found surely they would be allowed to work remote.
+But if an exceptional programmer is found surely they would be allowed to work remote.
 Right? If they are THAT good?
 
 Steven suggests that colocated teams better serve the corporate good. Perhaps. But maybe, just maybe,
@@ -54,15 +53,13 @@ the quality of our lives, even the lives of the people building said technology?
 Harvard recently completed a 75-year study on human (male) happiness. Their conclusion? It is all
 about love and warm relationships. Take 15 hours a week times 50 weeks times 20 years that's 15,000
 hours--assuming one is awake 16 hours a day that works out to about 3 years of one's life sitting
-in traffic. Imagine instead applying those three years to warm relationships. I know, I know, it
-may mean not nailing down the exact shade of blue that will increase the conversion rate of that
-banner ad by 0.002% but hear me out: people's lives may be, just maybe, more important than that.
+in traffic. Imagine instead applying those three years to warm relationships.
 
 I, too, remember those initial attempts at outsourcing. We are not
 talking about the days of hustlers getting contracts and then trying to staff them with whatever
-bodies they can find. This is 2014--2015 some places already--we have GitHub, Stack Overflow, job
+bodies they could find. This is 2015; we have GitHub, Stack Overflow, job
 boards for distributed teams, massive numbers of contributors to open source projects. Today quality
-remote workers and companies can and evaluate each other directly.
+remote workers and companies can find and evaluate each other directly.
 
 The way I see it a lot of this comes down to synchronous versus asynchronous communication. We
 started with synchronous communication as it was natural and it has a lot of useful properties. We
@@ -105,7 +102,7 @@ in time-sensitive situations like production outages. It can help prevent servic
 we love data, we can learn from data, we can use data to improve our processes. Distributed teams
 produce more and richer data about themselves and the work they do than colocated teams.
 
-Why would an industry embracing Big Data want to throw away so much data about itself?
+An industry embracing Big Data should 
 
 As technologists we do not write blog posts asking people to please go to gyms because that is the best way
 to work out; instead we innovate and build wearables that people can use to monitor and increase their
