@@ -8,6 +8,11 @@ as a solution and there was [this thread]
 discussion about colocated versus distributed teams. Steven Sinofsky wrote
 [a response to all of those](http://blog.learningbyshipping.com/2014/12/30/why-remote-engineering-is-so-difficult/).
 
+I am not against changing immigration laws. If someone wants to move to Silicon
+Valley from outside the country to work I think that is wonderful and they
+should be allowed to do that. I do not, however, believe that the future of the
+technology industry lies is colocated teams.
+
 I have been working in the tech industry for twenty years modulo hiatuses for
 creative projects. I have spent roughly half of that time colocated and half of
 that time distributed. I do not have data to support what I am about to write;
@@ -16,7 +21,7 @@ interested in having data about all of this.
 
 Distributed teams are an innovation enabled by technology. Arguments of
 authority--Google is not distributed, Facebook is not distributed, ask startup
-founders why they don't use distributed teams--are ludicrous. Gather 'round let
+founders why they do not use distributed teams--are ludicrous. Gather around let
 me tell you about a little thing called disruption.
 
 Would it not be tragic if you got the immigration laws changed and the best
@@ -30,8 +35,8 @@ have no interest in your strip malls and your commutes and your hole where the
 culture is supposed to be. That is why they are moving north to San Francisco.
 But, as you may have noticed, San Francisco is at capacity and is clearly not a
 long-term housing solution. Shopping on craigslist right now I can get a house
-half the size of the one I have here in Portland for $10k/month more than I pay
-now. One modest house I looked at had a move-in cost of $52,500.
+half the size of the one I have here in Portland for $10k/month more. One
+modest house I looked at had a move-in cost of $52,500.
 
 I would not call myself a great programmer, but I do have moments when the Venn
 diagrams of my experience align on a certain problem, are ignited by a spark of
@@ -92,7 +97,7 @@ writing to a physical device, that requires synchronous communication.
 Similarly while distributed teams choose tools and processes that support
 asynchronous communication there are times when synchronous communication is
 necessary. The day-to-day implementation of this can vary by team--team video
-calls and 1-1 manager video calls and so on--but I believe something that
+calls and 1-1 manager video calls and so on--but sometthing I believe
 should not vary for long-running teams is getting together once or twice a year
 for a few days on the company's time and dime to do something fun. Not a tech
 conference or an all-hands work meeting but something fun. It does not have to
@@ -142,5 +147,5 @@ itself.
 As technologists we do not write blog posts imploring people to please go to
 gyms because that is the best way to work out; instead we innovate and build
 wearables that people can use to monitor and increase their activity and
-fitness levels.  That is who we are and what we do. We are the cheap plastic
-solution you should never bet against.
+fitness levels wherever they are. That is who we are and what we do. We are the
+cheap plastic solution you should never bet against.
