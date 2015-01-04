@@ -26,13 +26,12 @@ pleased?
 
 Because I have news for you. Those exceptional programmers are highly
 intelligent individuals with significant left- and right-brain activity. They
-have no interest in your strip malls and your traffic and your hole where the
+have no interest in your strip malls and your commutes and your hole where the
 culture is supposed to be. That is why they are moving north to San Francisco.
 But, as you may have noticed, San Francisco is at capacity and is clearly not a
-long-term housing solution. I had a job offer in San Francisco earlier this
-year and looked for a house like the one I have here with my wife and children
-in Portland. The closest I could find, which was significantly smaller (though
-admittedly much fancier), cost $20,000/month.
+long-term housing solution. Shopping on craigslist right now I can get a house
+half the size of the one I have here in Portland for $10k/month more than I pay
+now. One modest house I looked at had a move-in cost of $52,500.
 
 I would not call myself a great programmer, but I do have moments when the Venn
 diagrams of my experience align on a certain problem, are ignited by a spark of
@@ -55,7 +54,7 @@ companies who need these individuals to maintain work environments that remove
 barriers to working with them.
 
 Harvard recently completed [a 75-year
-study](http://en.wikipedia.org/wiki/rant_Study) on human (male)
+study](http://en.wikipedia.org/wiki/Grant_Study) on human (male)
 happiness. Their conclusion? It is all about love and warm relationships. Take
 15 hours a week times 50 weeks times 20 years that's 15,000 hours--assuming one
 is awake 16 hours a day that works out to about 3 years of one's life sitting
@@ -84,8 +83,26 @@ scale. We had to change processes and the way we approach problems. And what
 happened? We discovered better ways to do things. Not merely different ways or
 almost-as-good ways, but better ways.
 
-I believe that a properly-run distributed team has more transparent and less
-siloed communication and that that leads to better collaboration. This may be a
+Asynchronous communication is efficient because senders do not have to wait for
+a response. People choose text messages over phone calls for the same
+reason. In 2015 we choose abstractions, languages and frameworks--functional
+programming, actor systems, immutable data structures and so on--that support
+asynchronous communication. But eventually we get to a point, for example
+writing to a physical device, that requires synchronous communication.
+Similarly while distributed teams choose tools and processes that support
+asynchronous communication there are times when synchronous communication is
+necessary. The day-to-day implementation of this can vary by team--team video
+calls and 1-1 manager video calls and so on--but I believe something that
+should not vary for long-running teams is getting together once or twice a year
+for a few days on the company's time and dime to do something fun. Not a tech
+conference or an all-hands work meeting but something fun. It does not have to
+be a whitewater rafting excursion; getting together in a centrally-located city
+and visiting museums is fine. There is a level of intimacy that only comes with
+face-to-face interaction, but people do not have to work in an office together
+for that to happen.
+
+I believe a properly-run distributed team has more transparent and less siloed
+communication and that that leads to better collaboration. This may be a
 tortured analogy but I think of it like Facebook versus Twitter--you may have
 more friend-to-friend bandwidth on Facebook but on Twitter everything is open
 and transparent which leads to insights outside of one's circle of friends and
@@ -100,25 +117,24 @@ also how I feel about distributed teams.
 A well-run distributed team primarily communicates via group text chat like
 Slack. As much as possible all communication happens in various channels that
 form by team or project or whatever fits best. Communication happens
-asynchronously, transparently and is immutably logged. Conversations are
-neither lost nor forgotten. People can be involved in conversations more easily
-because they can participate asynchronously. New group members can quickly be
-brought up to speed on a given topic or issue by referring them to relevant
-logs. Cross referencing code commits with tickets and publishing changes either
-directly to a group's room or to a "newsfeed" room provides amazing
-self-documentation. If I want to know why something was done I can look at the
-commit, find the ticket and find all the relevant discussion about that, how
-the solution was worked out--it may have required something beyond just code
-such as infrastructure changes or contacting a service provider. Colocated
-teams can do that somewhat, but there will always be large gaps that require
-relying on people's memories of events to resolve.  Fitbit > trying to remember
-what happened. You may say the need for this does not come up often and you
-would be correct, but when it does come up it can save days or even weeks of
-time. It can be a lifesaver in time-sensitive situations like production
-outages. It can help prevent service regressions. As technologists we love
-data, we can learn from data, we can use data to improve our processes.
-Distributed teams produce more and richer data about themselves and the work
-they do than colocated teams.
+asynchronously, transparently and is immutably logged. Conversations are not
+lost or forgotten. People can be included in conversations more easily because
+they can participate asynchronously. New group members can quickly be brought
+up to speed on a given topic or issue by referring them to relevant logs. Cross
+referencing code commits with tickets and publishing changes either directly to
+a group's room or to a "newsfeed" room provides amazing documentation. If I
+want to know why something was done I can look at the commit, find the ticket
+and find all the relevant discussion about that, how the solution was worked
+out--it may have required something beyond just code such as infrastructure
+changes or contacting a service provider. Colocated teams can do this somewhat,
+but there will always be large gaps that require relying on people's memories
+of events to resolve.  Fitbit > trying to remember what happened. You may say
+the need for this does not come up often and you would be correct, but when it
+does come up it can save days or even weeks of time. It can be a lifesaver in
+time-sensitive situations like production outages. It can help prevent service
+regressions. As technologists we love data, we can learn from data, we can use
+data to improve our processes.  Distributed teams produce more and richer data
+about themselves and the work they do than colocated teams.
 
 An industry embracing Big Data should look for ways to apply those insights to
 itself.
