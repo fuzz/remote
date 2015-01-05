@@ -11,13 +11,13 @@ discussion about colocated versus distributed teams. Steven Sinofsky wrote
 I am not against changing immigration laws. If someone wants to move to Silicon
 Valley from outside the country to work I think that is wonderful and they
 should be allowed to do that. I do not, however, believe that the future of the
-technology industry lies is colocated teams.
+technology industry lies in colocated teams.
 
 I have been working in the tech industry for twenty years modulo hiatuses for
 creative projects. I have spent roughly half of that time colocated and half of
-that time distributed. I do not have data to support what I am about to write;
-even if data was available there well may not be enough of it yet. I am very
-interested in having data about all of this.
+that time distributed. I do not have conclusive or broad data to support what
+I am about to write; even if data was available there well may not be enough
+of it yet. I am very interested in having data about all of this.
 
 Distributed teams are an innovation enabled by technology. Arguments of
 authority--Google is not distributed, Facebook is not distributed, ask startup
@@ -38,10 +38,10 @@ long-term housing solution. Shopping on craigslist right now I can get a house
 half the size of the one I have here in Portland for $10k/month more. One
 modest house I looked at had a move-in cost of $52,500.
 
-I would not call myself a great programmer, but I do have moments when the Venn
+(TODO: What do next two paragraphs contribute to the thrust of article? They seem to veer off onto a bit of a tangent.)
+I would not call myself a great programmer. But I do have moments when the Venn
 diagrams of my experience align on a certain problem, are ignited by a spark of
-creativity and the result is something that looks sufficiently like magic that
-people who have seen it happen were probably impressed.
+creativity and the result looks sufficiently like magic.
 
 In college I saw a guy solve one of those Jumble puzzles in the paper with no
 hesitation, he just opened up the page and whizzed through it. I said to myself
@@ -54,7 +54,7 @@ said he had done the Jumble in a different paper earlier in the day and was
 trying to impress me.
 
 Exceptional programmers are difficult to find. If we take it that exceptional
-programmers are rare and key to success then it would seem incumbent on the
+programmers are rare and necessary for success then it would seem incumbent on the
 companies who need these individuals to maintain work environments that remove
 barriers to working with them.
 
@@ -73,7 +73,7 @@ source projects. Today quality remote workers and companies can find and
 evaluate each other directly.
 
 The way I see it a lot of this comes down to synchronous versus asynchronous
-communication. We started with synchronous communication. Webuilt empires on
+communication. We started with synchronous communication. We built empires on
 synchronous communication, we developed techniques and processes and hardware
 architectures all around this idea of synchronous communication. But as time
 passed we realized what a drain of resources it is to always employ synchronous
@@ -96,15 +96,17 @@ asynchronous communication. But eventually we get to a point, for example
 writing to a physical device, that requires synchronous communication.
 Similarly while distributed teams choose tools and processes that support
 asynchronous communication there are times when synchronous communication is
-necessary. The day-to-day implementation of this can vary by team--team video
-calls and 1-1 manager video calls and so on--but sometthing I believe
+necessary. (TODO: consider breaking paragraph into 2. One about sync/async and one about importance of company retreats to offset the social bonding needs of organizations) The day-to-day implementation of this can vary by team--team video
+calls and 1-1 manager video calls and so on--but something I believe
 should not vary for long-running teams is getting together once or twice a year
 for a few days on the company's time and dime to do something fun. Not a tech
 conference or an all-hands work meeting but something fun. It does not have to
 be a whitewater rafting excursion; getting together in a centrally-located city
-and visiting museums is fine. There is a level of intimacy that only comes with
+and visiting museums is great too (TODO: mention Strange Loop Conference using hands on museum as bonding experience for attendees?). There is a level of intimacy that only comes with
 face-to-face interaction, but people do not have to work in an office together
 for that to happen.
+(TODO: discuss importance of "Flow" for programming and that async processes avoid interruptions that lead to inefficient systems due to "20 min tax for reachieving flow)
+(TODO: consider discussing creative benefits of these trips. At prior company, one of our major products came out of creative coding time enabled during in person company retreat)
 
 I believe a properly-run distributed team has more transparent and less siloed
 communication and that that leads to better collaboration. This may be a
@@ -119,23 +121,21 @@ for work that I really got that it was not a pale substitute for Facebook but
 rather a genuine advancement in human consciousness and communication. This is
 also how I feel about distributed teams.
 
+(TODO: In following paragraph, mention example of routing all emails into Google Group email lists as way to for collective lore? https://stripe.com/blog/scaling-email-transparency)
+
 A well-run distributed team primarily communicates via group text chat like
 Slack. As much as possible all communication happens in various channels that
 form by team or project or whatever fits best. Communication happens
 asynchronously, transparently and is immutably logged. Conversations are not
-lost or forgotten. People can be included in conversations more easily because
+lost or forgotten; they are viewable and searchable. People can be included in conversations more easily because
 they can participate asynchronously. New group members can quickly be brought
 up to speed on a given topic or issue by referring them to relevant logs. Cross
 referencing code commits with tickets and publishing changes either directly to
 a group's room or to a "newsfeed" room provides amazing documentation. If I
 want to know why something was done I can look at the commit, find the ticket
-and find all the relevant discussion about that, how the solution was worked
-out--it may have required something beyond just code such as infrastructure
-changes or contacting a service provider. Colocated teams can do this somewhat,
+and find all the relevant discussion. The changes as well as the context in which decisions were made are at my fingertips. Colocated teams can do this somewhat,
 but there will always be large gaps that require relying on people's memories
-of events to resolve.  Fitbit > trying to remember what happened. You may say
-the need for this does not come up often and you would be correct, but when it
-does come up it can save days or even weeks of time. It can be a lifesaver in
+of events to resolve. (TODO: rephrase the following sentence, it didn't flow well on my first read of article) Fitbit > trying to remember what happened. It can be a lifesaver in
 time-sensitive situations like production outages. It can help prevent service
 regressions. As technologists we love data, we can learn from data, we can use
 data to improve our processes.  Distributed teams produce more and richer data
@@ -149,3 +149,5 @@ gyms because that is the best way to work out; instead we innovate and build
 wearables that people can use to monitor and increase their activity and
 fitness levels wherever they are. That is who we are and what we do. We are the
 cheap plastic solution you should never bet against.
+
+(TODO: building up towards the end of article there's a good momentum that is lost with final two paragraphs. Take a second stab at wrapping up the key points of article, focusing on highlights of improved efficiency w/ sync/async, broader talent pool from remote teams, happier workers b/c of better quality of life, etc.)
