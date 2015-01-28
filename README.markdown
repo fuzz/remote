@@ -120,6 +120,7 @@ Where available please link directly to the company's careers page.
 - [Lumi](http://lumi.co/jobs)
 - [MailPoet](http://www.mailpoet.com/jobs)
 - [Memberful](https://memberful.com/about)
+- [Minted](http://www.minted.com/jobs)
 - [Monetate](http://www.monetate.com/jobs)
 - [MotorLot](http://motorlot.com/jobs)
 - MyFyx
