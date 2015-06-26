@@ -52,6 +52,7 @@ Where available please link directly to the company's careers page.
 - [DataStax](http://www.datastax.com/company/careers)
 - [Heroku](https://jobs.heroku.com)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
+- [Mozilla](https://careers.mozilla.org)
 - [Rackspace](http://www.rackspace.com/talent/)
 - [Slide Rule Software](http://sliderulesoftware.com)
 - [Upworthy](http://www.upworthy.com/jobs)
