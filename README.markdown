@@ -51,6 +51,7 @@ Where available please link directly to the company's careers page.
 
 - [DataStax](http://www.datastax.com/company/careers)
 - [Heroku](https://jobs.heroku.com)
+- [Hireology](http://www.hireology.com/careers)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
 - [Mozilla](https://careers.mozilla.org)
 - [Rackspace](http://www.rackspace.com/talent/)
@@ -136,7 +137,6 @@ Where available please link directly to the company's careers page.
 - [Hello Sign](https://www.hellosign.com/info/jobs)
 - [Help Scout](http://www.helpscout.net/about)
 - [Highrise](https://highrisehq.com/contact)
-- [Hireology](http://www.hireology.com/careers)
 - [HowAboutWe](http://www.howaboutwe.com/jobs)
 - [Hulkshare](http://www.hulkshare.com/static.php?op=careers)
 - [iDoneThis](https://idonethis.com/jobs)
