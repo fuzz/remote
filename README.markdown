@@ -49,6 +49,7 @@ Where available please link directly to the company's careers page.
 
 ### Managers work remote, not required to work near an office
 
+- [Canonical](http://www.canonical.com/careers)
 - [DataStax](http://www.datastax.com/company/careers)
 - [Heroku](https://jobs.heroku.com)
 - [Hireology](http://www.hireology.com/careers)
