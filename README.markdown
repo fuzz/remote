@@ -103,6 +103,7 @@ Where available please link directly to the company's careers page.
 - [CPAlead.com](http://www.cpalead.com/about.php)
 - [Cyanna Education Services](http://www.cyanna.com/company/jobscyanna-com)
 - [DADI+](https://dadi.co)
+- [DealDash Finland](https://www.dealdash.com/careers)
 - [Decisiv](http://decisiv.com/about/careers)
 - [Delighted](https://delighted.com/blog)
 - [Deveo](https://deveo.com/about)
