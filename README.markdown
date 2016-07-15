@@ -170,6 +170,7 @@ Where available please link directly to the company's careers page.
 - [Moz](https://moz.com/about/jobs)
 - [MuckerLab](http://www.muckercapital.com/muckerlab/about)
 - MyFyx
+- [nearForm](http://www.nearform.com/) (found & added 15/07/2016)
 - [Novu](https://www.novu.com/corporate/about-us/careers)
 - [O'Reilly Auto Parts](https://corporate.oreillyauto.com/corporate/CareerOpportunities.do)
 - [Optimal Software](http://www.broadbandspeedchecker.co.uk)
