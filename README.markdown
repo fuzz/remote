@@ -57,6 +57,7 @@ Where available please link directly to the company's careers page.
 - [Mozilla](https://careers.mozilla.org)
 - [Rackspace](http://www.rackspace.com/talent/)
 - [Slide Rule Software](http://sliderulesoftware.com)
+- [Stitch Fix](http://multithreaded.stitchfix.com/careers/)
 - [Upworthy](http://www.upworthy.com/jobs)
 
 ### Managers work remote, required to work near an office (or unknown)
