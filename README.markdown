@@ -58,6 +58,7 @@ Where available please link directly to the company's careers page.
 - [Rackspace](http://www.rackspace.com/talent/)
 - [Slide Rule Software](http://sliderulesoftware.com)
 - [Upworthy](http://www.upworthy.com/jobs)
+- [Ghost](https://ghost.org/)
 
 ### Managers work remote, required to work near an office (or unknown)
 
@@ -107,6 +108,7 @@ Where available please link directly to the company's careers page.
 - [Decisiv](http://decisiv.com/about/careers)
 - [Delighted](https://delighted.com/blog)
 - [Deveo](https://deveo.com/about)
+- [Dgraph](https://dgraph.io/about)
 - [Diagnotes](http://www.diagnotes.com/about)
 - [DocuSign](https://www.docusign.com/company/careers)
 - [Domain7](http://domain7.com/team)
@@ -234,3 +236,4 @@ Where available please link directly to the company's careers page.
 
 - https://weworkremotely.com
 - http://www.remoteworking.co
+- https://www.remotebase.io
