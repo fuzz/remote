@@ -51,6 +51,7 @@ Where available please link directly to the company's careers page.
 
 - [Canonical](http://www.canonical.com/careers)
 - [DataStax](http://www.datastax.com/company/careers)
+- [Ghost](https://ghost.org/)
 - [Heroku](https://jobs.heroku.com)
 - [Hireology](http://www.hireology.com/careers)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
@@ -58,7 +59,6 @@ Where available please link directly to the company's careers page.
 - [Rackspace](http://www.rackspace.com/talent/)
 - [Slide Rule Software](http://sliderulesoftware.com)
 - [Upworthy](http://www.upworthy.com/jobs)
-- [Ghost](https://ghost.org/)
 
 ### Managers work remote, required to work near an office (or unknown)
 
@@ -234,6 +234,6 @@ Where available please link directly to the company's careers page.
 
 ## Other Resources
 
-- https://weworkremotely.com
-- http://www.remoteworking.co
-- https://www.remotebase.io
+- [RemoteBase](https://www.remotebase.io)
+- [Remote Working](http://www.remoteworking.co)
+- [We Work Remotely](https://weworkremotely.com)
