@@ -51,6 +51,7 @@ Where available please link directly to the company's careers page.
 
 - [Canonical](http://www.canonical.com/careers)
 - [DataStax](http://www.datastax.com/company/careers)
+- [Ghost](https://ghost.org/)
 - [Heroku](https://jobs.heroku.com)
 - [Hireology](http://www.hireology.com/careers)
 - [LivingSocial](http://corporate.livingsocial.com/careers/overview)
@@ -107,6 +108,7 @@ Where available please link directly to the company's careers page.
 - [Decisiv](http://decisiv.com/about/careers)
 - [Delighted](https://delighted.com/blog)
 - [Deveo](https://deveo.com/about)
+- [Dgraph](https://dgraph.io/about)
 - [Diagnotes](http://www.diagnotes.com/about)
 - [DocuSign](https://www.docusign.com/company/careers)
 - [Domain7](http://domain7.com/team)
@@ -232,5 +234,6 @@ Where available please link directly to the company's careers page.
 
 ## Other Resources
 
-- https://weworkremotely.com
-- http://www.remoteworking.co
+- [RemoteBase](https://www.remotebase.io)
+- [Remote Working](http://www.remoteworking.co)
+- [We Work Remotely](https://weworkremotely.com)
