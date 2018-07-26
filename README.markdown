@@ -199,6 +199,7 @@ Where available please link directly to the company's careers page.
 - [Simple](https://www.simple.com/careers)
 - [SkyVerge](http://www.skyverge.com/jobs)
 - [Smoke Reports](https://www.smokereports.com/about-us)
+- [Soshace](https://www.soshace.com/)
 - [Space Inch](http://www.spaceinch.com)
 - [Spiffy](http://madebyspiffy.com/jobs)
 - [Stack Builders](http://www.stackbuilders.com/join)
