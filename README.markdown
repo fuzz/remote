@@ -231,7 +231,6 @@ Where available please link directly to the company's careers page.
 - [Vortala](http://www.vortala.com/careers)
 - [Waysact](http://www.waysact.com/we-build-your-favourite-face-to-face-fundraising-app.html)
 - [WebPunch](http://webpunch12.com)
-- [When I Work](http://wheniwork.com)
 - [WhoIsHostingThis](http://www.whoishostingthis.com/contact)
 
 ## Other Resources
