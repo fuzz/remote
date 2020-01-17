@@ -48,7 +48,7 @@ just tolerating remote and given a chance would shut it all down.
 | `dd` | driving distance | few hours drive of an office |
 | `ma` | metro area | same metro area as an office |
 
-Use `ma` if roles are definitely remote but no proximity information is
+Use `do` if roles are definitely remote but no proximity information is
 available.
 
 ## Format
@@ -77,8 +77,8 @@ anywhere the whole company still has a proximity of `D*`. However, an
 individual being allowed to work remote in a role that otherwise would not be
 remote—a VP who tried to quit to move to France so they let her work remote,
 say—does not count. If a company definitely has remote managers but no
-proximity information is known, use `ma`—such a company would have a proximity
-of `Mma`.
+proximity information is known, use `do`—such a company would have a proximity
+of `Mdo`.
 
 ## Contributing
 
@@ -95,8 +95,11 @@ because they are unable to find a current supporting job listing.
 | [Axios](https://axios.com) | Arlington, VA | Yes | `Ddo` |
 | [Basecamp](https://basecamp.com) | Chicago | No | `C*` |
 | [Canonical](https://canonical.com) | London | Yes | `M*` |
+| [Cinchapi](https://cinchapi.com/) | Atlanta | No | `Mdo` |
 | [Citrine Informatics](https://citrine.io) | Redwood City | Yes | `Mdo` |
+| [ConvertKit](https://convertkit.com) | Boise, ID | No | `Mdo` |
 | [DataStax](https://www.datastax.com) | Santa Clara | Yes | `Mdo` |
+| [DockYard](https://dockyard.com) | Boston | No | `Ddo` |
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
 | [Ghost](https://ghost.org) | None | No | `C*` |
@@ -107,6 +110,7 @@ because they are unable to find a current supporting job listing.
 | [Parse.ly](https://www.parse.ly) | New York City | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
+| [Theorem](https://theorem.co/) | Los Angeles | Yes | `Mdo` |
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | New York City | Yes | `Ddo` |
