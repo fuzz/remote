@@ -1,6 +1,7 @@
 # Remote-Led Companies
 
-This is a list of companies that employ remote leaders.
+This is a list of companies that employ remote leaders along with data about
+how far away from an office they are allowed to work.
 
 ## Metrics
 
