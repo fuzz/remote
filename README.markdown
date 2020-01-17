@@ -106,6 +106,7 @@ because they are unable to find a current supporting job listing.
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
 | [Elite HRV](https://elitehrv.com) | None | No | `Cdo` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
+| [Fastly](https://www.fastly.com) | San Francisco | Yes | `C*` |
 | [GatsbyJS](https://gatsbyjs.org) | Berkeley, CA | No | `Mdo` |
 | [Ghost](https://ghost.org) | None | No | `C*` |
 | [GitHub](https://github.com) | San Francisco | Yes | `Mdo` |
