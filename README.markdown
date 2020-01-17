@@ -102,6 +102,7 @@ because they are unable to find a current supporting job listing.
 | [DataStax](https://www.datastax.com) | Santa Clara, CA | Yes | `Mdo` |
 | [DockYard](https://dockyard.com) | Boston | No | `Ddo` |
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
+| [Elite HRV](https://elitehrv.com) | None | No | `Cdo` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
 | [Ghost](https://ghost.org) | None | No | `C*` |
 | [GitHub](https://github.com) | San Francisco | Yes | `Mdo` |
