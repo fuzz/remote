@@ -52,8 +52,12 @@ available.
 
 ## Format
 
-Company | HQ | Other Offices? | Proximity  
+Company | Headquarters | Other Offices? | Proximity  
 RemoteCo | San Francisco | Yes | `M* Ddd`
+
+Company is the company name. Headquarters is the location of the company
+headquarters--or None. Other Offices? is meant to be Yes/No rather than a list
+of the other offices.
 
 Generally we assume that all levels underneath a given level are at least as
 permissive with regards to Proximity, so if a company’s VPs (and below) can
