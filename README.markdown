@@ -102,6 +102,7 @@ because they are unable to find a current supporting job listing.
 | [Ghost](https://ghost.org) | None | No | `C*` |
 | [Help Scout](https://www.helpscout.com) | Boston | Yes | `M*` |
 | [InVision](https://www.invisionapp.com) | None | No | `C*` |
+| [Parse.ly](https://www.parse.ly) | New York City | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
