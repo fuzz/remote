@@ -23,18 +23,14 @@ culture-level metrics. If you have the right culture all the other bits are
 implementation details that can be reasonably expected to change to better
 serve that culture.
 
+## Why Leaders?
+
 My experience has been if the culture supports off-site leaders there is a
 genuine remote-first culture with transparent group communication. If leaders
 must be colocated then significant discussions happen in face-to-face meetings,
 over lunch and after work from which remote employees are always excluded. A
 lack of remote leadership can also be an indicator that senior leadership is
 just tolerating remote and given a chance would shut it all down.
-
-## Disclaimer
-
-Inclusion on this list is in no way an endorsement. Note companies may have
-jobs available not listed on their Careers pages--be sure to check job boards,
-LinkedIn, etc.
 
 ## Proximity Key
 
