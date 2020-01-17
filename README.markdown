@@ -92,25 +92,29 @@ because they are unable to find a current supporting job listing.
 
 | Company | Headquarters | Other Offices? | Proximity |
 | ------- | ------------ | -------------- | --------- |
+| [Airbase](https://www.airbase.com) | San Francisco | Yes | `Ddo` |
 | [Auth0](https://auth0.com) | Bellevue, WA | Yes | `C*` |
 | [Axios](https://axios.com) | Arlington, VA | Yes | `Ddo` |
 | [Basecamp](https://basecamp.com) | Chicago | No | `C*` |
 | [Canonical](https://canonical.com) | London | Yes | `M*` |
 | [Cinchapi](https://cinchapi.com/) | Atlanta | No | `Mdo` |
 | [Citrine Informatics](https://citrine.io) | Redwood City, CA | Yes | `Mdo` |
+| [Clipboard Health](https://www.clipboardhealth.com) | San Francisco | No | `Vdo` |
 | [ConvertKit](https://convertkit.com) | Boise, ID | No | `Mdo` |
 | [DataStax](https://www.datastax.com) | Santa Clara, CA | Yes | `Mdo` |
 | [DockYard](https://dockyard.com) | Boston | No | `Ddo` |
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
 | [Elite HRV](https://elitehrv.com) | None | No | `Cdo` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
+| [GatsbyJS](https://gatsbyjs.org) | Berkeley, CA | No | `Mdo` |
 | [Ghost](https://ghost.org) | None | No | `C*` |
 | [GitHub](https://github.com) | San Francisco | Yes | `Mdo` |
 | [GitLab](https://gitlab.com) | San Francisco | No | `V*` |
 | [Help Scout](https://www.helpscout.com) | Boston | Yes | `M*` |
 | [InVision](https://www.invisionapp.com) | None | No | `C*` |
-| [Olo](https://www.olo.com) | New York City | No | `Mdo` |
-| [Parse.ly](https://www.parse.ly) | New York City | No | `C*` |
+| [Lesbians Who Tech](http://www.lesbianswhotech.org) | None | No | `Cdo` | 
+| [Olo](https://www.olo.com) | NYC | No | `Mdo` |
+| [Parse.ly](https://www.parse.ly) | NYC | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [ReCharge Payments](https://rechargepayments.com) | Santa Monica, CA | No | `Mna` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
@@ -118,4 +122,4 @@ because they are unable to find a current supporting job listing.
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Walmart Labs](https://www.walmartlabs.com) | San Bruno, CA | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
-| [Wirecutter](https://thewirecutter.com) | New York City | Yes | `Ddo` |
+| [Wirecutter](https://thewirecutter.com) | NYC | Yes | `Ddo` |
