@@ -94,12 +94,15 @@ because they are unable to find a current supporting job listing.
 | ------- | ------------ | -------------- | --------- |
 | [Airbase](https://www.airbase.com) | San Francisco | Yes | `Ddo` |
 | [Auth0](https://auth0.com) | Bellevue, WA | Yes | `C*` |
+| [Automattic](https://automattic.com) | San Francisco | No | `D*` |
 | [Axios](https://axios.com) | Arlington, VA | Yes | `Ddo` |
 | [Basecamp](https://basecamp.com) | Chicago | No | `C*` |
+| [BeenVerified](https://www.beenverified.com) | NYC | Yes | `V*` |
 | [Canonical](https://canonical.com) | London | Yes | `M*` |
-| [Cinchapi](https://cinchapi.com/) | Atlanta | No | `Mdo` |
+| [Cinchapi](https://cinchapi.com) | Atlanta | No | `Mdo` |
 | [Citrine Informatics](https://citrine.io) | Redwood City, CA | Yes | `Mdo` |
 | [Clipboard Health](https://www.clipboardhealth.com) | San Francisco | No | `Vdo` |
+| [Close](https://close.com) | None | No | `C*` |
 | [ConvertKit](https://convertkit.com) | Boise, ID | No | `Mdo` |
 | [DataStax](https://www.datastax.com) | Santa Clara, CA | Yes | `Mdo` |
 | [DockYard](https://dockyard.com) | Boston | No | `Ddo` |
@@ -112,16 +115,21 @@ because they are unable to find a current supporting job listing.
 | [GitHub](https://github.com) | San Francisco | Yes | `Mdo` |
 | [GitLab](https://gitlab.com) | San Francisco | No | `V*` |
 | [Help Scout](https://www.helpscout.com) | Boston | Yes | `M*` |
+| [Hotjar](https://www.hotjar.com) | Malta | No | `C*` |
 | [InVision](https://www.invisionapp.com) | None | No | `C*` |
-| [Lesbians Who Tech](http://www.lesbianswhotech.org) | None | No | `Cdo` | 
+| [Lesbians Who Tech](http://www.lesbianswhotech.org) | None | No | `Cdo` |
+| [The Lifetime Value Company](https://www.ltvco.com) | NYC | Yes | `V*` |
+| [Modern Tribe](https://tri.be) | None | No | `C*` |
 | [Olo](https://www.olo.com) | NYC | No | `Mdo` |
 | [Parse.ly](https://www.parse.ly) | NYC | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [ReCharge Payments](https://rechargepayments.com) | Santa Monica, CA | No | `Mna` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
+| [Sticker Mule](https://www.stickermule.com) | None | No | `C*` |
 | [Theorem](https://theorem.co) | Los Angeles | Yes | `Mdo` |
 | [Thorn](http://www.wearethorn.org) | Washington, DC | No | `Mdo` |
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Walmart Labs](https://www.walmartlabs.com) | San Bruno, CA | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | NYC | Yes | `Ddo` |
+| [Zapier](https://zapier.com) | None | No | `C*` |
