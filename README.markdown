@@ -100,10 +100,13 @@ because they are unable to find a current supporting job listing.
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
 | [Ghost](https://ghost.org) | None | No | `C*` |
+| [GitHub](https://github.com) | San Francisco | Yes | `Mdo` |
+| [GitLab](https://gitlab.com) | San Francisco | No | `V*` |
 | [Help Scout](https://www.helpscout.com) | Boston | Yes | `M*` |
 | [InVision](https://www.invisionapp.com) | None | No | `C*` |
 | [Parse.ly](https://www.parse.ly) | New York City | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
+| [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | New York City | Yes | `Ddo` |
