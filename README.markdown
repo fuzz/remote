@@ -83,7 +83,7 @@ of `Mdo`.
 
 ## Contributing
 
-PRs that remove a company or “downgrades” one to a less permissive proximity
+PRs that remove a company or “downgrade” one to a less permissive proximity
 (`Ddo` -> `Dma`, say) will be rejected unless they come from am employee of
 that company. This is to prevent folks from trying to modify a company’s status
 because they are unable to find a current supporting job listing.
