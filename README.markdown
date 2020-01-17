@@ -79,10 +79,17 @@ say—does not count. If a company definitely has remote managers but no
 proximity information is known, use `ma`—such a company would have a proximity
 of `Mma`.
 
+## Contributing
+
+PRs that remove a company or “downgrades” one to a less permissive proximity
+(`Ddo` -> `Dma`, say) will be rejected unless they come from am employee of
+that company. This is to prevent folks from trying to modify a company’s status
+because they are unable to find a current supporting job listing.
+
 ## The List
 
-| Company | HQ | Other Offices? | Proximity |
-| ------- | -- | -------------- | --------- |
+| Company | Headquarters | Other Offices? | Proximity |
+| ------- | ------------ | -------------- | --------- |
 | [Auth0](https://auth0.com) | Bellevue, WA | Yes | `C*` |
 | [Axios](https://axios.com) | Arlington, VA | Yes | `Ddo` |
 | [Basecamp](https://basecamp.com) | Chicago | No | `C*` |
