@@ -119,7 +119,8 @@ because they are unable to find a current supporting job listing.
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
 | [ReCharge Payments](https://rechargepayments.com) | Santa Monica, CA | No | `Mna` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
-| [Theorem](https://theorem.co/) | Los Angeles | Yes | `Mdo` |
+| [Theorem](https://theorem.co) | Los Angeles | Yes | `Mdo` |
+| [Thorn](http://www.wearethorn.org) | Washington, DC | No | `Mdo` |
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Walmart Labs](https://www.walmartlabs.com) | San Bruno, CA | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
