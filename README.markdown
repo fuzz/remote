@@ -126,10 +126,10 @@ because they are unable to find a current supporting job listing.
 | [ReCharge Payments](https://rechargepayments.com) | Santa Monica, CA | No | `Mna` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
 | [Sticker Mule](https://www.stickermule.com) | None | No | `C*` |
+| [TaxJar](https://www.taxjar.com) | None | No | `C*` |
 | [Theorem](https://theorem.co) | Los Angeles | Yes | `Mdo` |
 | [Thorn](http://www.wearethorn.org) | Washington, DC | No | `Mdo` |
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
-| [Walmart Labs](https://www.walmartlabs.com) | San Bruno, CA | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | NYC | Yes | `Ddo` |
 | [Zapier](https://zapier.com) | None | No | `C*` |
