@@ -129,6 +129,7 @@ because they are unable to find a current supporting job listing.
 | [TaxJar](https://www.taxjar.com) | None | No | `C*` |
 | [Theorem](https://theorem.co) | Los Angeles | Yes | `Mdo` |
 | [Thorn](http://www.wearethorn.org) | Washington, DC | No | `Mdo` |
+| [TravelJoy](https://traveljoy.com) | San Francisco | No | `C*` |
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | NYC | Yes | `Ddo` |
