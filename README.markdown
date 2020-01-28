@@ -126,6 +126,7 @@ because they are unable to find a current supporting job listing.
 | [ReCharge Payments](https://rechargepayments.com) | Santa Monica, CA | No | `Mna` |
 | [Redox](https://www.redoxengine.com) | Madison, WI | Yes | `C*` |
 | [Sticker Mule](https://www.stickermule.com) | None | No | `C*` |
+| [Stripe](https://stripe.com) | San Francisco | No | `Mdo` |
 | [TaxJar](https://www.taxjar.com) | None | No | `C*` |
 | [Theorem](https://theorem.co) | Los Angeles | Yes | `Mdo` |
 | [Thorn](http://www.wearethorn.org) | Washington, DC | No | `Mdo` |
