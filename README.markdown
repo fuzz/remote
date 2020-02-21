@@ -120,6 +120,7 @@ because they are unable to find a current supporting job listing.
 | [Lesbians Who Tech](http://www.lesbianswhotech.org) | None | No | `Cdo` |
 | [The Lifetime Value Company](https://www.ltvco.com) | NYC | Yes | `V*` |
 | [Modern Tribe](https://tri.be) | None | No | `C*` |
+| [Mozilla](https://mozilla.org) | Mountain View, CA | Yes | `VPdo` |
 | [Olo](https://www.olo.com) | NYC | No | `Mdo` |
 | [Parse.ly](https://www.parse.ly) | NYC | No | `C*` |
 | [Plaid](https://plaid.com) | San Francisco | Yes | `Dtz` |
