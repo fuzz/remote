@@ -100,6 +100,7 @@ because they are unable to find a current supporting job listing.
 | [BeenVerified](https://www.beenverified.com) | NYC | Yes | `V*` |
 | [Canonical](https://canonical.com) | London | Yes | `M*` |
 | [Cinchapi](https://cinchapi.com) | Atlanta | No | `Mdo` |
+| [CircleCI](https://circleci.com) | San Francisco | Yes | `Vdo` |
 | [Citrine Informatics](https://citrine.io) | Redwood City, CA | Yes | `Mdo` |
 | [Clipboard Health](https://www.clipboardhealth.com) | San Francisco | No | `Vdo` |
 | [Close](https://close.com) | None | No | `C*` |
