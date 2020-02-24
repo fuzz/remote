@@ -92,6 +92,7 @@ because they are unable to find a current supporting job listing.
 
 | Company | Headquarters | Other Offices? | Proximity |
 | ------- | ------------ | -------------- | --------- |
+| [1Password](https://1password.com/) | Toronto | No | `Mdo` |
 | [Airbase](https://www.airbase.com) | San Francisco | Yes | `Ddo` |
 | [Auth0](https://auth0.com) | Bellevue, WA | Yes | `C*` |
 | [Automattic](https://automattic.com) | San Francisco | No | `D*` |
