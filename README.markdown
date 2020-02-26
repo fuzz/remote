@@ -138,4 +138,5 @@ because they are unable to find a current supporting job listing.
 | [Twitter](https://twitter.com) | San Francisco | Yes | `Mdo` |
 | [Wikimedia Foundation](https://wikimediafoundation.org) | San Francisco | Yes | `C*` |
 | [Wirecutter](https://thewirecutter.com) | NYC | Yes | `Ddo` |
+| [WorkOS](https://workos.com) | None | No | `Ctz` |
 | [Zapier](https://zapier.com) | None | No | `C*` |
