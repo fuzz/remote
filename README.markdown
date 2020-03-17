@@ -119,6 +119,7 @@ because they are unable to find a current supporting job listing.
 | [Help Scout](https://www.helpscout.com) | Boston | Yes | `M*` |
 | [Hotjar](https://www.hotjar.com) | Malta | No | `C*` |
 | [InVision](https://www.invisionapp.com) | None | No | `C*` |
+| [Invoca](https://www.invoca.com) | Santa Barbara, CA | Yes | `Cna` |
 | [Lesbians Who Tech](http://www.lesbianswhotech.org) | None | No | `Cdo` |
 | [The Lifetime Value Company](https://www.ltvco.com) | NYC | Yes | `V*` |
 | [Modern Tribe](https://tri.be) | None | No | `C*` |
