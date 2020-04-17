@@ -110,6 +110,7 @@ because they are unable to find a current supporting job listing.
 | [DockYard](https://dockyard.com) | Boston | No | `Ddo` |
 | [Eager Labs](https://www.eagerconnect.com) | None | No | `M*` |
 | [Elite HRV](https://elitehrv.com) | None | No | `Cdo` |
+| [Ergeon](https://www.ergeon.com) | Palo Alto | No | `Mdo*` |
 | [Etsy](https://www.etsy.com) | NYC | Yes | `M*` |
 | [Fastly](https://www.fastly.com) | San Francisco | Yes | `C*` |
 | [GatsbyJS](https://gatsbyjs.org) | Berkeley, CA | No | `Mdo` |
